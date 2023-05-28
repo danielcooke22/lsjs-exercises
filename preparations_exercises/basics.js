@@ -1,2 +1,4 @@
-let numero = Number('5') + 10
-console.log(`The value of 5 + 10 is ${numero}`);
+let firstName = 'Daniel';
+let lastName = 'Cooke';
+console.log(firstName + ' ' + lastName);
+
